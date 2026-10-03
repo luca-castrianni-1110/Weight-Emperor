@@ -1,4 +1,5 @@
 # Weight-Emperor
+Applicazione iOS nativa sviluppata in SwiftUI per la creazione, gestione e personalizzazione di schede di allenamento. Include il tracciamento dettagliato di serie, ripetizioni e carichi, con persistenza locale dei dati tramite UserDefaults e architettura pulita.
 
 # Weight Emperor (iOS Workout Manager)
 
